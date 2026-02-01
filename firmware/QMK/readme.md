@@ -1,3 +1,3 @@
-# szczurpad
+# Firmware
 
-e
+Firmware for the hackpad
