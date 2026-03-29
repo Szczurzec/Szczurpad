@@ -7,10 +7,13 @@ The Szczurpad is my first real electronics project, it features 9 keys, an ec11 
 <img width="785" height="645" alt="image" src="https://github.com/user-attachments/assets/af0bba53-8e3a-497c-a5df-6f442680f987" />
 
 # PCB
+
 The PCB:
+
 <img width="556" height="679" alt="image" src="https://github.com/user-attachments/assets/cfac9a6a-dd7e-4ac7-93b3-a7c370c456a1" />
 
 The Schematic:
+
 <img width="1143" height="694" alt="image" src="https://github.com/user-attachments/assets/c9a4714d-ba14-4a07-bc85-09cfa3a96c27" />
 
 ## Firmware features
