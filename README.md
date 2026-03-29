@@ -35,4 +35,4 @@ Here are all the parts needed for assembly:
 - 1x Case (2 printed parts)
 
 
-### will improve this further in the future
+#### (will improve this further in the future)
