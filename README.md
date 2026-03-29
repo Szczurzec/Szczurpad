@@ -33,3 +33,6 @@ Here are all the parts needed for assembly:
 - 1x EC11 Rotary Encoder
 - 1x XIAO RP2040
 - 1x Case (2 printed parts)
+
+
+### will improve this further in the future
